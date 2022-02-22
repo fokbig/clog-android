@@ -1,4 +1,4 @@
-package com.wetio.logc.model.login
+package com.wetio.logc.model.user
 
 import org.json.JSONObject
 

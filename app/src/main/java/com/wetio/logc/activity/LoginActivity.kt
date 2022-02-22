@@ -5,8 +5,8 @@ import com.google.gson.Gson
 import com.wetio.logc.AppActivity
 import com.wetio.logc.R
 import com.wetio.logc.databinding.ActivityLoginBinding
-import com.wetio.logc.model.login.UserForm
-import com.wetio.logc.model.login.UserJWT
+import com.wetio.logc.model.user.UserForm
+import com.wetio.logc.model.user.UserJWT
 import com.wetio.logc.util.HttpUtil
 
 class LoginActivity : AppActivity() {

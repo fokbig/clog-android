@@ -1,4 +1,8 @@
 <resources>
+    <!-- URL -->
+    <string name="login_url">http://www.wetio.cn:10008/api/v2/token</string>
+
+
     <string name="app_name">Wetio Log</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->

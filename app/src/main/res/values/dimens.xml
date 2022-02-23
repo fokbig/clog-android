@@ -11,4 +11,9 @@
     <dimen name="login_input_height">60dp</dimen>
     <dimen name="login_edit_border_radius">8dp</dimen>
     <dimen name="login_wetio_text">22sp</dimen>
+
+    <!--  view_bottom  -->
+    <dimen name="view_bottom_height">56dp</dimen>
+    <dimen name="view_bottom_img">24dp</dimen>
+    <dimen name="view_bottom_margin">4dp</dimen>
 </resources>

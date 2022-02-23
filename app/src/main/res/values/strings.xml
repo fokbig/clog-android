@@ -5,7 +5,6 @@
 
     <string name="app_name">Wetio Log</string>
     <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
@@ -20,7 +19,12 @@
     <string name="login_edit_username_hint">Email</string>
     <string name="login_edit_password_hint">Password</string>
 
-
     <!-- 数据库名 -->
     <string name="database_name">log-monitor</string>
+
+    <!-- main 底部Tab -->
+    <string name="view_bottom_left_text">首页</string>
+    <string name="view_bottom_mid_text">监控</string>
+    <string name="view_bottom_right_text">我的</string>
+    <string name="view_bottom_left_img">底部图标</string>
 </resources>
